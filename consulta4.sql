@@ -13,10 +13,3 @@ JOIN
     payment ON rental.rental_id = payment.rental_id
 GROUP BY 
     staff.staff_id;
-   
-
-
-
-
-
-
